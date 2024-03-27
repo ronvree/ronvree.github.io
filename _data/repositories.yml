@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ronvree
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+
+  - ronvree/DataAugmentationInMBRL
+  - ronvree/AlphaZero
+  - BigDataWUR/AgML-crop-yield-forecasting
