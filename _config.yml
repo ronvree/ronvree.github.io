@@ -86,7 +86,7 @@ research_gate_profile: # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 flickr_id: # your flickr id
 blogger_url: # your blogger URL
-work_url: # work page URL
+work_url: https://www.wur.nl/en/persons/ron-van-bree.htm # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
