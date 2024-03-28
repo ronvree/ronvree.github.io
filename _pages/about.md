@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Under development! Mostly placeholder content at the moment. Should there be any confusion, I am not, in fact, Albert Einstein!
+Website under development! Mostly placeholder content at the moment. Should there be any confusion, I am not, in fact, Albert Einstein!
 
 
 [//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit]&#40;http://reddit.com&#41;. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
