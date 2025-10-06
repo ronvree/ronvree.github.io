@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at Wageningen University & Research
+subtitle: PhD in Artificial Intelligence @ Wageningen University & Research
 
 profile:
   align: right
@@ -17,6 +17,9 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+I'm a PhD Candidate at the [Artificial Intelligence group](https://www.wur.nl/en/research-results/chair-groups/plant-sciences/artificial-intelligence-group-1.htm) at Wageningen University & Research under the supervision of [Ioannis Athanasiadis](https://www.athanasiadis.info/) and [Diego Marcos](https://www.linkedin.com/in/diego-marcos-8927bb20b). My research interests lie at the intersection of machine learning and its application in agriculture.
+
 
 Website under development! 
 
