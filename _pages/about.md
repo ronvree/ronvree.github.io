@@ -6,7 +6,7 @@ subtitle: PhD in Artificial Intelligence @ Wageningen University & Research
 
 profile:
   align: right
-  image: profile_picture.jpeg
+  image: profile_picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 #    <p>555 your office number</p>
