@@ -2,7 +2,6 @@ github_users:
   - ronvree
 
 github_repos:
-
   - ronvree/DataAugmentationInMBRL
   - ronvree/AlphaZero
   - BigDataWUR/AgML-crop-yield-forecasting
