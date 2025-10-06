@@ -1,19 +1,19 @@
 "CVPR":
   url: https://cvpr.thecvf.com/
-  color: "#4b67a1"
+  color: "#2c5282"  # Deep blue for good contrast
 
 "EDS":
   url: https://www.cambridge.org/core/journals/environmental-data-science
-  color: "#00934b"
+  color: "#276749"  # Deep green for good contrast
 
 "AAAI":
   url: https://aaai.org/conference/aaai/
-  color: "#c41e3a"
+  color: "#9B2C2C"  # Deep red for good contrast
 
 "ONE":
   url: https://www.cell.com/one-earth/home
-  color: "#2c5282"
+  color: "#2A4365"  # Navy blue for good contrast
 
 "arXiv":
   url: https://arxiv.org/
-  color: "#b31b1b"
+  color: "#822727"  # Dark red for good contrast
