@@ -1,6 +1,19 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"CVPR":
+  url: https://cvpr.thecvf.com/
+  color: "#4b67a1"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"EDS":
+  url: https://www.cambridge.org/core/journals/environmental-data-science
+  color: "#00934b"
+
+"AAAI":
+  url: https://aaai.org/conference/aaai/
+  color: "#c41e3a"
+
+"ONE":
+  url: https://www.cell.com/one-earth/home
+  color: "#2c5282"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
